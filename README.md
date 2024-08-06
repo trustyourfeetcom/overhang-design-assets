@@ -3,14 +3,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/trustyourfeetcom/overhang-branding-assets">
+  <a href="https://github.com/trustyourfeetcom/overhang-design-assets">
     <img src="https://github.com/trustyourfeetcom/overhang-branding-assets/blob/main/logos/logo.png?raw=true" alt="Overhang Logo" width="120" height="120">
   </a>
 
 <h3 align="center">Overhang</h3>
-<h4 align="center">overhang-branding-assets</h3>
+<h4 align="center">overhang-design-assets</h3>
   <p align="left">
-    The Overhang Assets repository contains the visual and branding resources used across the project. It includes logos, architectural diagrams, and other materials essential for presenting Overhang.
+    Overhang's Assets repository contains the design and branding resources used across the project. It includes logos, architectural diagrams, and other materials essential for presenting Overhang.
   <br />
   <br />
   </p>
@@ -62,6 +62,7 @@
 
 ## Resources
 
+* [Confluence Page](https://overhang.atlassian.net/wiki/x/C4Db)
 
 <!-- CONTACT -->
 ## Contact
